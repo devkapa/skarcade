@@ -1,1 +1,1 @@
-# SKAR - A simple study utility suite for students
+# SKAR - A simple utility suite for students
