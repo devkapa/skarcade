@@ -1,4 +1,4 @@
-# skarcade - A smart productivity suite
+# skarcade - A student productivity suite
 **skarcade** is a collection of apps to help you effectively achieve your study goals and stay in touch with life. Manage your study your way - achieve that organisation you've always strived for. 
 
 ## For students, by students
