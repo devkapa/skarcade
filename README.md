@@ -1,1 +1,1 @@
-# SKAR - A simple utility suite for students
+# SKARcade - A simple utility suite for students
